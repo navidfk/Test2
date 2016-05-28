@@ -1,12 +1,12 @@
 {
-    "name": "NavidFK/Test2",
+    "name": "navid-fk/test2",
     "description": "Test module for Magento 2",
     "type": "magento2-module",
     "extra": {
         "map": [
             [
                 "*",
-                "NavidFK/Test2"
+                "navid-fk/test2"
             ]
         ]
     }
